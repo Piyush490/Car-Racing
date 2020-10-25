@@ -1,4 +1,5 @@
-// A C++ program to implement greedy algorithm for graph coloring 
+// A C++ program to implement greedy algorithm for graph coloring
+//aanchal singh
 #include <iostream> 
 #include <list> 
 using namespace std; 
@@ -75,7 +76,6 @@ void Graph::greedyColoring()
 		cout << "Vertex " << u << " ---> Color "
 			<< result[u] << endl; 
 } 
-
 // Driver program to test above function 
 int main() 
 { 
