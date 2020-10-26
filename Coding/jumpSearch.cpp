@@ -1,5 +1,5 @@
 // C++ program to implement Jump Search 
-
+//aman singh
 #include <bits/stdc++.h> 
 using namespace std; 
 
