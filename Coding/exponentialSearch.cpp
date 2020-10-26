@@ -1,5 +1,6 @@
 // C++ program to find an element x in a
 // sorted array using Exponential search.
+//Aman singh
 #include <bits/stdc++.h>
 using namespace std;
 
