@@ -1,7 +1,7 @@
 // C code to linearly search x in arr[]. If x
 // is present then return its location, otherwise
 // return -1
-
+//aman singh
 #include <stdio.h>
 
 int search(int arr[], int n, int x)
