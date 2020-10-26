@@ -1,6 +1,6 @@
 // C program for Fibonacci Search 
 #include <stdio.h> 
-
+//aman singh
 // Utility function to find minimum of two elements 
 int min(int x, int y) { return (x<=y)? x : y; } 
 
