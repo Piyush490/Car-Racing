@@ -1,6 +1,6 @@
 // C program to implement interpolation search 
 #include<stdio.h> 
-
+//aman singh
 // If x is present in arr[0..n-1], then returns 
 // index of it, else returns -1. 
 int interpolationSearch(int arr[], int n, int x) 
